@@ -1,0 +1,62 @@
+body {
+  
+	width: 100%;
+  margin: 0px;
+}
+
+img {margin:0px;width:30%}
+ .buttons
+{
+    width:14%;
+}
+.logo
+{
+    width:3%;
+}
+.button238
+{
+    width:19%;
+}
+.buttonlast
+{
+    width:26%
+}
+h1 {
+    font-size: 28px;
+    font-family: Monaco, Courier, monospace;
+    color: #618ad2;
+    transition: color .5s;
+}
+
+
+.p {
+	margin: 20px 0;
+    margin-left: 69px;
+     font-size: 23px;
+}
+.center {display:block; margin:0 auto; width:250;}
+ 
+.text1{
+    color:white;
+        margin-bottom: 350 px;
+    font-size:20;
+}
+.h1{
+   color:white;
+    
+    margin-bottom: 10 px;
+        font-size:25;  
+    
+}
+header{
+    background-color:blue;
+}
+footer{
+    background-color:blue;
+    color:white;
+}
+.rigth
+{
+   clear:both; text-align:right;
+}
+}
